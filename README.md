@@ -1,4 +1,4 @@
-# Replication Package for Algorithmic Collusion under Stochastic Costs: User's Guide
+# Replication Package for Algorithmic Collusion under Stochastic Costs
 
 This repository contains the replication code for: Ballestero, G. (2026). Algorithmic collusion under sequential pricing and stochastic costs. _International Journal of Industrial Organization_, 106, 103281.  
 
