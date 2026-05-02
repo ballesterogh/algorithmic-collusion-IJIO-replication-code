@@ -1,0 +1,11 @@
+                                                                             Low-cost state High-cost state
+─────────────────────────────────────────────────────────────────────────────────────────────────────────
+Panel A: Bernoulli (ρ = 0.5)
+Relative price change by the nondeviating agent in period τ = 2               -0.304   -0.080
+Average percentage gain from the deviation in terms of discounted profits     -0.093   -0.079
+Length of punishment                                                           3.998    4.202
+
+Panel B: Markov (ρ = 0.9)
+Relative price change by the nondeviating agent in period τ = 2               -0.313   -0.198
+Average percentage gain from the deviation in terms of discounted profits     -0.102   -0.083
+Length of punishment                                                           4.525    4.555

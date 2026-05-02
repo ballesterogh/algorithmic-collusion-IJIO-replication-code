@@ -1,0 +1,15 @@
+                                              Bernoulli (ρ = 0.5) Markov (ρ = 0.9)
+────────────────────────────────────────────────────────────────────────────────
+Average normalized profit                               0.542           0.568
+Standard deviation normalized profits                   0.067           0.064
+Frequency of Nash equilibria                            0.052           0.034
+Average Q-loss (on path)                                0.183           0.252
+Standard deviation Q-loss (on path)                     0.040           0.081
+Average Q-loss (all states)                             0.469           0.594
+Standard deviation Q-loss (all states)                  0.026           0.041
+
+Note: Normalized profits under random pricing = -0.237
+Note: Average number of iterations until converge for Bernoulli (ρ = 0.5) in millions = 2.69
+Note: Average market price for Bernoulli (ρ = 0.5) = 0.39
+Note: Average number of iterations until converge for Markov (ρ = 0.9) in millions = 3.449
+Note: Average market price for Markov (ρ = 0.9) = 0.408

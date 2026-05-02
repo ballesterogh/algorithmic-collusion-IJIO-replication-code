@@ -1,0 +1,15 @@
+Panel B: Markov (ρ = 0.9)
+                                                 Focal single Alternating focal   Partial focal           Cycle             All
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Frequency                                               0.000           0.039           0.325           0.636           1.000
+Average market price                                      NaN           0.410           0.406           0.398           0.401
+Average normalized profit                                 NaN           0.693           0.572           0.491           0.525
+Standard deviation normalized profit                      NaN           0.132           0.105           0.103           0.116
+Frequency of Nash equilibria                              NaN           0.385           0.329           0.220           0.262
+Average Q-loss (on path)                                  NaN           0.095           0.118           0.145           0.134
+Standard deviation Q-loss (on path)                       NaN           0.057           0.077           0.087           0.084
+Average Q-loss (all states)                               NaN           0.198           0.191           0.194           0.193
+Standard deviation Q-loss (all states)                    NaN           0.060           0.080           0.094           0.089
+
+Note:
+Normalized profits under random pricing = -0.233
