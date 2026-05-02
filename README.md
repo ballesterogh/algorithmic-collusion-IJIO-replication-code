@@ -1,9 +1,8 @@
 # Replication Package for Algorithmic Collusion under Stochastic Costs: User's Guide
 
+This README was prepared following the guidelines of the International Journal of Industrial Organization Data Editor. Last updated: 2 March 2026
 
-
-**Gonzalo Ballestero**  
-Pennsylvania State University — gballestero@psu.edu
+For questions about this replication package, please contact Gonzalo Ballestero (Pennsylvania State University) at gballestero@psu.edu.
 
 ---
 
