@@ -1,4 +1,6 @@
-# Code Description
+# Replication Package for Algorithmic Collusion under Stochastic Costs: User's Guide
+
+
 
 **Gonzalo Ballestero**  
 Pennsylvania State University — gballestero@psu.edu
