@@ -1,5 +1,8 @@
 # Replication Package for Algorithmic Collusion under Stochastic Costs: User's Guide
 
+This repository contains the replication code for: Ballestero, G. (2026). Algorithmic collusion under sequential pricing and stochastic costs. International Journal of Industrial Organization, 106, 103281.  
+
+
 This README was prepared following the guidelines of the International Journal of Industrial Organization Data Editor. Last updated: 2 March 2026
 
 For questions about this replication package, please contact Gonzalo Ballestero (Pennsylvania State University) at gballestero@psu.edu.
@@ -7,8 +10,6 @@ For questions about this replication package, please contact Gonzalo Ballestero 
 ---
 
 ## 1. Introduction
-
-This document describes the code used in Ballestero, G. (2026). Algorithmic collusion under sequential pricing and stochastic costs. International Journal of Industrial Organization, 106, 103281. https://doi.org/10.1016/j.ijindorg.2026.103281 and provides all necessary information to replicate the figures and tables reported in the paper. All computations were completed using Julia 1.10, available at https://julialang.org/downloads/.
 
 The structure of the folder is as follows:
 
@@ -22,7 +23,7 @@ The structure of the folder is as follows:
 
 ## 2. Simulation Experiments
 
-This section describes how to run the codes in `\code` and generate the results for the simulation experiments. The Julia script `main.jl` contains the calling program, and all other scripts contain modules implementing specific computations. Simulation results are stored in `.jld2` output files in `\data_simulation`, which are frequently quite large and may take up to several GB of disk space (not included in this repository — see note above). These output files are then fed to Julia scripts in `\figures_and_tables` and `\figures_and_tables_appendix` to generate figures and tables of the paper and the online appendix.
+This section describes how to run the codes in `\code` and generate the results for the simulation experiments. All computations were completed using Julia 1.10, available at https://julialang.org/downloads/. The Julia script `main.jl` contains the calling program, and all other scripts contain modules implementing specific computations. Simulation results are stored in `.jld2` output files in `\data_simulation`, which are frequently quite large and may take up to several GB of disk space (not included in this repository — see note above). These output files are then fed to Julia scripts in `\figures_and_tables` and `\figures_and_tables_appendix` to generate figures and tables of the paper and the online appendix.
 
 The folder `\code\master` contains the following scripts:
 
