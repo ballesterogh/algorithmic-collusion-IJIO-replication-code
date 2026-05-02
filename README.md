@@ -25,7 +25,7 @@ The structure of the folder is as follows:
 
 This section describes how to run the codes in `\code` and generate the results for the simulation experiments. All computations were completed using Julia 1.10, available at https://julialang.org/downloads/. The Julia script `main.jl` contains the calling program, and all other scripts contain modules implementing specific computations. Simulation results are stored in `.jld2` output files in `\data_simulation`, which are frequently quite large and may take up to several GB of disk space (not included in this repository — see note above). These output files are then fed to Julia scripts in `\figures_and_tables` and `\figures_and_tables_appendix` to generate figures and tables of the paper and the online appendix.
 
-The folder `\code\master` contains the following scripts:
+The folder `\code` contains the following scripts:
 
 - **`main.jl`** — master script that calls other modules and defines the input parameters.
 - **`init_deterministic.jl`** — defines the deterministic environment (i.e., no cost uncertainty).
