@@ -5,7 +5,7 @@ This repository contains the replication code for: Ballestero, G. (2026). Algori
 
 This README was prepared following the guidelines of the International Journal of Industrial Organization Data Editor. Last updated: 2 March 2026
 
-For questions about this replication package, please contact Gonzalo Ballestero (Pennsylvania State University) at gballestero@psu.edu.
+For questions about this replication package, please contact Gonzalo Ballestero at gballestero@psu.edu.
 
 ---
 
